@@ -1,4 +1,4 @@
-# Important Research Papers in NLP
+# Important Research Papers
 
 This repository contains a curated collection of important research papers with a primary focus on Natural Language Processing.
 
